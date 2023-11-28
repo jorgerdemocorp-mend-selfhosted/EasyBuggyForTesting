@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": { dddddddddddd
+  "dependencies": { 
     "event-source-polyfill": "1.0.30",
     "faker": "5.5.3",
     "express": "4.17.3",
@@ -20,8 +20,6 @@
     "consolidate": "^0.14.1",
     "csurf": "^1.8.3",
     "dont-sniff-mimetype": "^1.0.0",
-    "express": "^4.13.4",
-    "express-session": "^1.13.0",
     "forever": "^2.0.0",
     "helmet": "^2.0.0",
     "marked": "0.3.5",
@@ -30,6 +28,7 @@
     "node-esapi": "0.0.1",
     "serve-favicon": "^2.3.0",
     "swig": "^1.4.2",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "grunt": "0.1.0"
   }
 }
