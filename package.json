@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "dependencies": { dddddddddddd
     "event-source-polyfill": "1.0.30",
     "faker": "5.5.3",
     "express": "4.17.3",
@@ -29,7 +29,7 @@
     "needle": "2.2.4",
     "node-esapi": "0.0.1",
     "serve-favicon": "^2.3.0",
-    "swig": "^1.4.2" hhhhhhhhhdddd
+    "swig": "^1.4.2",
     "underscore": "^1.8.3"
   }
 }
