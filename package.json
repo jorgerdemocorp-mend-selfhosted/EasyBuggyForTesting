@@ -14,7 +14,7 @@
     "faker": "5.5.3",
     "express": "4.17.3",
     "lodash": "4.17.21",
-    "axios": "1.6.0",
+    "axios": "1.6.2",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.15.1",
     "consolidate": "^0.14.1",
