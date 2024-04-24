@@ -1,4 +1,10 @@
 {
-  "settingsInheritedFrom": "jorgerdemocorp-mend-selfhosted/whitesource-config@main"
-} 
-          
+  "settingsInheritedFrom": "jorgerdemocorp-mend-selfhosted/whitesource-config@main",
+  "scanSettings": {
+    "configMode": "AUTO",
+    "enableReachability": true
+  },
+  "checkRunSettings": {
+    "strictMode": "warning"
+  }
+}
