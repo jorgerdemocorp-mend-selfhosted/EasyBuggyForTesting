@@ -6,13 +6,7 @@
   },
   "checkRunSettings": {
     "strictMode": "warning"
-  },
-  "remediateSettings": {
-    "workflowRules": {
-      "enabled": true
-    }
   }  
-
 }
 
 
